@@ -38,7 +38,7 @@
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "bin": {
-    "redirect-lint": "./dist/cli.js"
+    "redirect-lint": "dist/cli.js"
   },
   "files": [
     "dist",
