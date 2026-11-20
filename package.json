@@ -1,23 +1,23 @@
 {
   "name": "redirect-lint",
   "version": "0.1.0",
-  "description": "Validate and flatten redirect rules before you ship them: wildcards, chain collapsing, loop and clash detection, 410s, and CSV import.",
+  "description": "Redirect chain checker for _redirects, CSV and JSON rules: finds loops, chains and clashes, and flattens chains to one hop.",
   "keywords": [
-    "redirects",
-    "redirect",
+    "redirect chain checker",
+    "bulk redirect checker",
+    "301 redirect checker",
+    "netlify redirects",
     "_redirects",
-    "netlify",
     "cloudflare-pages",
     "wordpress-redirection",
+    "redirect-loop",
     "seo",
     "lint",
-    "linter",
     "csv",
-    "301",
     "410",
     "cli"
   ],
-  "homepage": "https://github.com/saimulft/redirect-lint#readme",
+  "homepage": "https://oss.saimulislam.com/redirect-lint/",
   "bugs": {
     "url": "https://github.com/saimulft/redirect-lint/issues"
   },

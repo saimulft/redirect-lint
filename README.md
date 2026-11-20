@@ -1,10 +1,12 @@
 # redirect-lint
 
-Validate and flatten redirect rules before you ship them.
+A redirect chain checker: validate and flatten redirect rules before you ship them.
 
 [![npm version](https://img.shields.io/npm/v/redirect-lint)](https://www.npmjs.com/package/redirect-lint)
 [![license](https://img.shields.io/npm/l/redirect-lint)](https://www.npmjs.com/package/redirect-lint)
 [![node version](https://img.shields.io/node/v/redirect-lint)](https://www.npmjs.com/package/redirect-lint)
+
+Guide, examples and FAQ: https://oss.saimulislam.com/redirect-lint/
 
 Extracted from [Sitessa](https://sitessa.com), a headless CMS, where it validates redirect rules and CSV imports.
 
