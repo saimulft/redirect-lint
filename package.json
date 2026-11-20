@@ -1,6 +1,6 @@
 {
   "name": "redirect-lint",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Redirect chain checker for _redirects, CSV and JSON rules: finds loops, chains and clashes, and flattens chains to one hop.",
   "keywords": [
     "redirect chain checker",
